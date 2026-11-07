@@ -1,0 +1,12 @@
+﻿Model,Metric,Value,Dataset
+Random Forest Global,MAE,32.86419513405397,Test
+Random Forest Global,RMSE,41.3607144193344,Test
+Random Forest Global,WAPE,0.32914104885826295,Test
+Seasonal Naive lag-7,MAE,42.55809090909091,Test
+Seasonal Naive lag-7,RMSE,54.49856962259735,Test
+Seasonal Naive lag-7,WAPE,0.4262272245550526,Test
+Quantile P10,Pinball Loss,6.030928113859297,Test
+Quantile P50,Pinball Loss,15.174504408831192,Test
+Quantile P90,Pinball Loss,7.550660748364888,Test
+Quantile P10-P90,Empirical Coverage,0.7808181818181819,Test
+Quantile P10-P90,Mean Interval Width,95.53359556295521,Test
